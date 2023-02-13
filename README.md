@@ -69,6 +69,11 @@ La instancia EC2 se conecta con VSCODE para realizar el script para subir los ar
 
 #### Nota: Se crean un Layer personalizado para importar las librerias necesarias.
 [![10-Lambda-layers.png](https://i.postimg.cc/R067n4wx/10-Lambda-layers.png)](https://postimg.cc/rdT0B6hf)
+| Custom Layer | https://drive.google.com/file/d/1Z3u9h3V26_XgeZqnPJooixsaT6pt9XE9/view?usp=sharing |
+| ----------------- | ------------------------------------------------------------------ |
+
+
+
 
 7.- Se crea un servicio de PostgreSQL para almacenar la información procesada para su posterior analisis. 
 
