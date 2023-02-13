@@ -51,6 +51,7 @@ La instancia EC2 se conecta con VSCODE para realizar el script para subir los ar
 [![9-S3-eventos-put-trigger-lambda.png](https://i.postimg.cc/6pJpczN4/9-S3-eventos-put-trigger-lambda.png)](https://postimg.cc/LnDS6t5m)
 
 5.- Se realiza una exploración de los datos con el servicio de Athena.
+[![15-athena.png](https://i.postimg.cc/0yFx3w4B/15-athena.png)](https://postimg.cc/PCWBvPTW)
 
 6.- El el servicio de Lambda se crean 3 funciones :
 
