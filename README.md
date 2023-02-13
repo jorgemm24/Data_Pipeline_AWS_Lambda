@@ -78,6 +78,7 @@ La instancia EC2 se conecta con VSCODE para realizar el script para subir los ar
 [![13-rdb-dbeaver.png](https://i.postimg.cc/Hn5Xqqt8/13-rdb-dbeaver.png)](https://postimg.cc/p5Wm814P)
 
 8.- Se crea un dashboard en Power BI para crear indicadores y para el equipo del negocio tome las desiciones necesarias.
+[![14-BI.png](https://i.postimg.cc/K8P92RDQ/14-BI.png)](https://postimg.cc/nXLKKV5Q)
 
 ## Codigo
 
