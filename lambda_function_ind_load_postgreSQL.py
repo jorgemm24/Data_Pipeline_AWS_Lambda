@@ -20,10 +20,10 @@ def lambda_handler(event, context):
     s3_client = boto3.client('s3')
     bucket = 'bucket-ind-2023'
     
-    host = 'db-ind.ccothdrjgv9f.us-east-1.rds.amazonaws.com'
+    host = 'host
     user = 'postgres'
-    password = 'postgres'
-    dbname = 'postgres'
+    password = 'clave'
+    dbname = 'test'
     port = '5432'
   
     db = psycopg2.connect(dbname=dbname, host=host, port=port, user=user, password=password)
