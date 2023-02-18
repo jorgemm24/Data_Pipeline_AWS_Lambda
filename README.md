@@ -6,6 +6,9 @@ Este proyecto es la entrega final del curso de Ingeneria de Datos en AWS. Para e
 
 [![arquitectura.png](https://i.postimg.cc/DfrBSXDn/arquitectura.png)](https://postimg.cc/t7ghfYpM)
 
+## Explicación en video youtube (dale click)
+[![Alt text](https://img.youtube.com/vi/iswxkLOCsqU/0.jpg)](https://www.youtube.com/watch?v=iswxkLOCsqU)
+
 ## Escenario
 
 La empresa AZT necesita analizar las llamadas que realizan sus clientes. Para ello se creo una solución en la nube de AWS.
